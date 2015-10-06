@@ -32,7 +32,7 @@ public class Main extends Activity {
             "titulo17",
             "titulo18",
             "titulo19",
-
+            "titulo20",
     };
 
     String[] subTitulo= new String[]{
